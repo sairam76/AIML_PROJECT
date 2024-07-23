@@ -12,7 +12,7 @@ The main aim of this project is to predict the survival chances of passengers on
 
 5)Visualization: Using visual tools to gain insights into the data and model performance, such as survival distributions, correlation heatmaps, and feature importance.
 
-Colab link: https://colab.research.google.com/drive/1pfr8oM2EqI6eArtEwbMvJsM-zbFRoZSx
+Colab link: [https://colab.research.google.com/drive/1pfr8oM2EqI6eArtEwbMvJsM-zbFRoZSx](https://colab.research.google.com/drive/1pfr8oM2EqI6eArtEwbMvJsM-zbFRoZSx?usp=sharing)
 
 Titanic dataset link: https://www.kaggle.com/c/titanic/data
 
